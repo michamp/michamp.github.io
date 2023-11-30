@@ -35,6 +35,7 @@ span.size-20 {
     direction: ltr;
   }
 
+  .tab { margin-left: 40px; }
 
   .pulse {
     animation: pulse 3s infinite;
